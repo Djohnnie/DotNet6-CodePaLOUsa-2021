@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net6.0</TargetFramework>
+		<RootNamespace>_02_DeploymentFeatures.SingleFileExecutables</RootNamespace>
+		<Nullable>enable</Nullable>
+		<PublishSingleFile>true</PublishSingleFile>
+		<RuntimeIdentifier>win10-x64</RuntimeIdentifier>
+	</PropertyGroup>
+
+</Project>

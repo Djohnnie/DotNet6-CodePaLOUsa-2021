@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net6.0</TargetFramework>
+		<RootNamespace>_02_DeploymentFeatures.AssemblyLinking</RootNamespace>
+		<Nullable>enable</Nullable>
+		<PublishSingleFile>true</PublishSingleFile>
+		<RuntimeIdentifier>win10-x64</RuntimeIdentifier>
+		<PublishTrimmed>true</PublishTrimmed>
+	</PropertyGroup>
+
+</Project>
